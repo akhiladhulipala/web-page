@@ -1,0 +1,31 @@
+<html>
+    <style>
+        head{
+            allign-text:centre;
+        }
+        section {
+    background-image: url("https://assets.serenity.co.uk/58000-58999/58779/1296x864.jpg");
+    background-size:100% 100%;
+        }
+        </style>
+    
+    
+    <SECTION>
+        <head style="color:red;"><strong>PERSONAL-WEBSITE</allign></strong></head>
+
+
+        <div>
+            <h4 style="display:inline;">Name:</h4><p style="display:inline;"><em>Akhila.Dhulipala</em></p>
+            <h4 >Date of Birth:</h4><p style="display:inline;">22/05/2002</p>
+        
+        <h4 style="black";>Hobbies:</h4>
+        <ul>
+            <li>playing with pets</li>
+            <li>watching movies</li>
+          </ul>
+        <h4>Strengths:</h4>
+        <p>Family</p>
+        <p>friends</p>
+</div>
+    </SECTION>
+</html>
